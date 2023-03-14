@@ -1,0 +1,540 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;700&family=Poppins:wght@300;600&display=swap');
+
+* {
+    font-family: 'Cairo';
+    color: #6F96AA;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: #F1F6FA;
+display: flex;
+    font-family: 'Cairo';
+    column-gap: 15px;
+
+}
+
+.inputtxt{
+    border: none;
+    width: 340px;
+    
+}
+.src{
+    display: flex;
+    background-color: white;
+    border-radius: 10px;
+    padding: 5px 5px 5px 15px;
+}
+.src img{
+    width: 20px;
+    height: 20px;
+}
+.inputtxt{
+padding-left: 10px;   
+border: none;
+outline: none;
+   }
+.justify-center {
+    justify-content: center;
+  }
+ .flex-cal {
+    flex-direction: column;
+  }
+.flex {
+  display: flex;
+}
+.SideBar {
+  width: 9%;
+  background-color: white;
+  align-items: center;
+  justify-content: space-between;
+  margin-left: 10px;
+  padding: 20px;
+}
+.mailbody2{
+    display: flex;
+}
+.LogoImg {
+    display: flex;
+    flex-direction: column;
+  width: 35px;
+  height: 35px;
+}
+.SideBarimg {
+    width: 40px;
+  height: 40px;
+}
+.emails1{
+    display: flex;
+    flex-direction: column;
+}
+.content3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.photos {
+    height: 40px;
+    width: 50px;
+}
+.Preview {
+    color: black;
+    font-size: 32px;
+    font-weight: 700;
+}
+.img1 {
+    height: 20px;
+    width: 20px;
+}.img2 {
+    border: none;
+    background-color: white;
+    word-spacing: 10px;
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+column-gap: 5px;    
+}
+.content5
+{justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+.img3 {
+    border: none;
+    background-color: white;
+    word-spacing: 10px;
+ height: 20px;
+    width: 20px;
+    object-fit: contain;
+}
+
+.content4 {
+    color: black;
+    font-weight: 600;
+}
+.para1 {
+    font-size: 10px;
+    padding-bottom: 10px;
+}
+h6 {
+    font-size: small;
+}
+
+.heading {
+    display: flex;
+flex-direction: row;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding: 20px;
+height: 710px;
+}
+
+.time{
+    padding-bottom: 10px;
+     height: auto;
+     width: fit-content;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+ }
+.content2 {
+    display: flex;
+    flex-direction: row;
+}
+
+.sidemenu {
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+    margin-left: 10px;
+}
+.one{
+    color: #FF844B;
+    height: 10px;
+    width: 10px;
+   }
+.img4{
+    width: 15px;
+    height: 15px;
+}
+
+.emailbox {
+    background-color: #FF844B;
+    border-radius: 15px;
+    color: white;
+    padding: 5px;
+}
+
+.mailcontent {
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+    line-height:25px;
+   width: 160px;
+}
+.name{
+font-weight: 500;
+}
+
+.name1 {
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+}
+.apple{
+    color: black;
+    font-weight: 700;
+}
+
+
+
+.content8{
+   border-radius: 10px;
+    background-color: white;
+    color: #6F96AA;
+    font-size: 13px;
+    height: 90px;
+    width: 380px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.mailbody1{
+    display: flex;
+    flex-direction: row;
+}
+.para5{
+    display: flex;
+}
+
+.message2{
+padding: 5px;    
+}
+.content9{
+    display: flex;
+    justify-content: space-between;
+    }
+.mailcontent1{
+    display: flex;
+column-gap: 15px;
+}
+
+.mailbody {
+    font-family: 'Cairo';
+    font-size: 13px;
+}
+.nam2{
+    margin: 5px;
+}
+
+.icons {
+    font-size: 15px;
+    padding: 15px;
+    display: flex;
+    column-gap: 10px;
+
+}
+.ten{
+    color: black;
+}
+.icons2
+{
+    padding: 5px;
+    display: flex;
+    column-gap: 20px;
+}
+.name {
+    color: black;
+    font-family: 'Cairo';
+    font-size: 12px;
+}
+.name2 {
+    color:#6F96AA;
+    font-family: 'Cairo';
+    font-size: 12px;
+}
+.name9{
+    color:#6F96AA;
+        font-family: 'Cairo';
+        font-size: 12px;
+        letter-spacing: 2px;
+}
+
+.img {
+    width: 15px;
+    height: 15px;
+}
+
+.label {
+    font-family: 'Cairo';
+    font-size: 15px;
+}.label1{
+    padding: 4px;
+}
+
+.message {
+object-fit: contain;
+    width: 180px;
+}
+
+
+.insideicons {
+    width: 20px;
+    font-family: 'Cario';
+    
+}
+
+.content1 {
+    color: black;
+    font-size:xx-large;
+}
+
+.header {
+    font-family: 'Cario';
+    column-gap: 15px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.content7{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.btn {
+    width: 380px;
+    height: 40px;
+    background-color: #FFFFFF;
+    border: none;
+}
+
+.para2{
+    display: flex;
+    margin-left: 10px;
+}
+
+.innercls {
+    width: 18px;
+}
+
+.btnn {
+    width: 40px;
+    height: 40px;
+}
+
+.fristdiv {
+    border-radius: 10px;
+    background-color: white;
+    color: #6F96AA;
+    font-size: 13px;
+    height: 100px;
+    width: 380px;
+    margin-top: 10px;
+}
+
+.btn2 {
+    height: 40px;
+    width: 40px;
+    background-color: #6F96AA;
+    border: none;
+    border-radius: 10px;
+}
+.name0{
+    line-height: 10px;
+    margin-left: 10px;
+
+}
+.para{
+margin-left: 10px;
+}
+.btn1 {
+    height:45px;
+    width: 50px;
+    background-color: #6F96AA;
+    border-radius: 10px;
+    border: none;
+    padding: 15px;
+    }
+#box{
+    border-radius: 10px;
+    color: #F1F6FA;
+    margin: 5px;
+    box-shadow: 0px 16px 25px rgba(78, 125, 150, 0.1);
+}
+.mainmenu1{
+display: none;
+}
+
+.inbox5{
+    font-family: 'Cairo';
+}
+.inbox7{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+.content6
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.para5 {
+    display: flex;
+    flex-direction: row;
+}
+.name4 {
+    display: flex;
+    flex-direction: row;
+    height: 130px;
+    width: 200px;
+    background-color: #6F96AA;
+    overflow: hidden;
+    border-radius: 15px;
+    margin-right: 5px;
+    border: 1px solid #6F96AA;
+   
+}.two{
+    display: flex;
+}
+
+.inbox3 {
+    height: 110px;
+    width: 450px;
+    border-radius: 15px;
+    border: 1px solid #6F96AA;
+   justify-content: space-evenly;
+    margin-top: 14px;
+
+}
+.content0{
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+}
+
+.inbox4 {
+    padding: 15px;
+}
+.inbox6{
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+}
+.icons6 {
+    display: flex;
+align-items: center;
+margin-bottom: 20px;
+margin-left: 15px;
+column-gap: 20px;
+}
+
+
+
+.icons1 {
+    height: 20px;
+    width: 20px;
+}
+
+.inbox1 {
+    display: flex;
+    justify-content: space-between;
+margin-top: 20px;
+}
+.btn0{
+display: flex;
+justify-content: center;
+align-items: center;
+column-gap: 10px;
+margin-top: 10px;
+}
+.btn5 {
+    border: none;
+    color: #F1F6FA;
+    background-color: #FF844B;
+    border-radius: 10px;
+    align-items: center;
+    height: 30px;
+    width: 30px;
+}
+.btn6{
+    border: none;
+    color: #6F96AA;
+    border: 1px solid #6F96AA;
+    border-radius: 10px;
+    height: 30px;
+    width: 30px;
+    align-items: center;
+
+}
+.btn4 {
+    border: none;
+    color: #F1F6FA;
+    background-color: #FF844B;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+hr {
+    border: 1px solid #6F96AA;
+    width: 100%;
+}
+
+.icon {
+    color: white;
+    height: 20px;
+    width: 20px;
+}
+
+
+
+.para4 {
+    background-color: #FF844B;
+    width: 120px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+}
+
+.name7 {
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    width: 550px;
+    background-color: white;
+
+    text-align: center;
+    border-top: 1px solid #6F96AA;
+}
+
+.name6 {
+    display: flex;
+    flex-direction: column;
+    height: 80px;
+    width: 230px;
+    background-color: white;
+    position: relative;
+    top: 95px;
+text-align: center;
+
+}
+
+.name8{
+    margin-left: 40px;
+    display: flex;
+    align-items: center;
+    column-gap: 5px;
+}
+.para6{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 100px;
+}
